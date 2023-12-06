@@ -7,9 +7,7 @@ This project is a simple login system built using Java Servlets and connected to
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -31,3 +29,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/login-system.git
+2.create a database called "users" that have a table called user has columns (id {pk} ,name,password)   
